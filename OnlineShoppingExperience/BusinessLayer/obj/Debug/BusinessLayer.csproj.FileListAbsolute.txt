@@ -1,0 +1,1 @@
+E:\DotNetProject\OnlineShoppingExperience\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\DotNetProject\OnlineShoppingExperience\LoginBusinessLayer\bin\Debug\LoginBusinessLayer.dll
+E:\DotNetProject\OnlineShoppingExperience\LoginBusinessLayer\bin\Debug\LoginBusinessLayer.pdb
+E:\DotNetProject\OnlineShoppingExperience\LoginBusinessLayer\obj\Debug\LoginBusinessLayer.dll
+E:\DotNetProject\OnlineShoppingExperience\LoginBusinessLayer\obj\Debug\LoginBusinessLayer.pdb
+E:\DotNetProject\OnlineShoppingExperience\LoginBusinessLayer\obj\Debug\LoginBusinessLayer.csprojResolveAssemblyReference.cache
